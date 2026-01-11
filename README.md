@@ -41,28 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vasanthkumar10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthkumar10&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=vasanthkumar10&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasanthkumar10&theme=darkhub&no-frame=true&margin-w=12" />
-</p>
-
----
-
 ## 🤝 Let’s connect
 
 - LinkedIn: https://www.linkedin.com/in/vasanthkumarv10/
-- GitHub: https://github.com/vasanthkumar10
