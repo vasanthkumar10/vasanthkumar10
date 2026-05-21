@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VASANTHKUMAR VINAYAGAM</h1>
-<h3 align="center">Lead SDE • FinTech • Backend Engineering • Distributed Systems</h3>
+<h3 align="center">Principal SDE • FinTech • Backend Engineering • Distributed Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vasanthkumarv10/" target="_blank">
